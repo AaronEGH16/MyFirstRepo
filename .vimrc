@@ -25,7 +25,7 @@ inoremap ( ()<ESC>i
 inoremap { {}<ESC>i
 inoremap {<CR> {<CR><CR>}<c-up>
 inoremap [ []<ESC>i
-inoremap <. <.><ESC>i
+inoremap <. <><ESC>i
 inoremap ' ''<ESC>i
 inoremap " ""<ESC>i
 inoremap /** /**<CR><CR><c-backspace>/<c-up>
